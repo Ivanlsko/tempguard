@@ -1,0 +1,51 @@
+# Dependencies
+**/node_modules/
+
+# Environment variables
+**/.env
+
+# Logs
+**/logs
+**/logs/*
+**/logs/**
+**/logs/**/*
+**/logs/**/**/*
+**/logs/**/**/**/*
+**/logs/**/**/**/**/*
+*.log
+**/npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+coverage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db 
+
+# Dist
+dist/
+
+# History
+history
+.history/
+**/history/
+**/history/**
+**/history/**/*
+**/history/**/**
+**/history/**/**/*
+**/history/**/**/**
+**/history/**/**/**/*
+
+folder-structure.txt
